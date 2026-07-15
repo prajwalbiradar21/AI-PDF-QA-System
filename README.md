@@ -2,6 +2,11 @@
 
 An AI-powered document intelligence application that enables users to upload PDF documents and ask natural language questions based on the document content. The system uses **Retrieval-Augmented Generation (RAG)** with **LangChain**, **FAISS**, **HuggingFace Embeddings**, and **Llama 3.1 (Groq)** to generate accurate, context-aware responses.
 
+--- 
+
+### 🚀 Live Demo Link :
+👉 https://airesumeanalyzer-bwxqsrfuzyyl65n8sepbie.streamlit.app/
+
 ---
 
 ##  Project Overview
