@@ -5,7 +5,7 @@ An AI-powered document intelligence application that enables users to upload PDF
 --- 
 
 ### 🚀 Live Demo Link :
-👉 https://airesumeanalyzer-bwxqsrfuzyyl65n8sepbie.streamlit.app/
+👉 https://ai-pdf-app-system-6owhm38b6bavpwdakynbla.streamlit.app
 
 ---
 
